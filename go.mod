@@ -1,4 +1,4 @@
-module postman-swagger
+module postman-to-static-html
 
 go 1.21.1
 
